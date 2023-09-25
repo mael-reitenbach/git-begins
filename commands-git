@@ -2,3 +2,4 @@ git clone [Lien HTTPS ou SSH du repository]
 git add
 git commit
 git push
+git pull
